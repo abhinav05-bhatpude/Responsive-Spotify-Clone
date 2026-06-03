@@ -18,3 +18,7 @@ This project recreates Spotify's user interface using only HTML and CSS. It focu
 
 - HTML5
 - CSS3
+
+- ## Live Demo
+
+🔗 https://abhinav05-bhatpude.github.io/Responsive-Spotify-Clone/
