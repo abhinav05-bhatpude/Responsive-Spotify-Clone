@@ -13,3 +13,8 @@ This project recreates Spotify's user interface using only HTML and CSS. It focu
 - Sidebar navigation
 - Music cards section
 - Pure HTML and CSS
+
+- ## Tech Stack
+
+- HTML5
+- CSS3
